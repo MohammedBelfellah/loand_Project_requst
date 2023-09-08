@@ -1,0 +1,27 @@
+.ckeckboxInput{
+    height: 30px;
+}
+.active{
+    background-color: rgb(224, 102, 8);
+}
+.inActive{
+    background-color: rgb(103, 106, 107);
+}
+#inputSection input,select{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+}
+/* modale componte  */
+#modaleContent{
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 215, 15);
+    width: 50%;
+}
+#modale{
+
+}
